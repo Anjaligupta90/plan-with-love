@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/counter-staterpack/static/css/main.7acc56bc.css",
+    "main.js": "/counter-staterpack/static/js/main.db465ca9.js",
+    "index.html": "/counter-staterpack/index.html",
+    "main.7acc56bc.css.map": "/counter-staterpack/static/css/main.7acc56bc.css.map",
+    "main.db465ca9.js.map": "/counter-staterpack/static/js/main.db465ca9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acc56bc.css",
+    "static/js/main.db465ca9.js"
+  ]
+}
